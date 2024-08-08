@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- TextView 1 -->
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:text="Mata kuliah Mobile Progamming TI21K1"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="QUIZ 1"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <!-- TextView 2 -->
+
+        <!-- Garis Pemisah 2 -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <!-- TextView 3 -->
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NIM : 202111004"
+            android:textSize="18sp"
+            android:paddingBottom="8dp" />
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama : Sarjuni"
+            android:textSize="18sp"
+            android:paddingBottom="8dp" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kelas: TI21K1"
+            android:textSize="18sp"
+            android:paddingBottom="8dp" />
+        <!-- Garis Pemisah 3 -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <!-- TextView 4 -->
+        <TextView
+            android:id="@+id/textView471"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban no 1"
+            android:textStyle="bold"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView466"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perkembangan Android dari masa ke masa menunjukkan bagaimana sistem operasi ini telah berkembang menjadi salah satu platform mobile terbesar dan paling dominan di dunia. Berikut adalah ringkasan perjalanan Android dari awal hingga saat ini:
+1. Android 1.0 (September 2008)
+
+    Peluncuran: Android 1.0 adalah versi pertama yang dirilis oleh Google.
+    Fitur Utama: Memperkenalkan fitur dasar seperti homescreen, aplikasi drawer, dan notifikasi. Versi ini juga memiliki browser web berbasis WebKit, serta dukungan untuk email dan kalender.
+
+2. Android 1.5 Cupcake (April 2009)
+
+    Fitur Utama: Menambahkan dukungan untuk keyboard virtual, widget homescreen, dan fitur video recording. Cupcake juga memperkenalkan kemampuan untuk meng-upload video ke YouTube.
+
+3. Android 1.6 Donut (September 2009)
+
+    Fitur Utama: Memperkenalkan peningkatan dalam pencarian dan dukungan untuk resolusi layar yang lebih tinggi. Juga memperkenalkan Android Market (sekarang Google Play Store) dan dukungan untuk CDMA.
+
+4. Android 2.0 Eclair (November 2009)
+
+    Fitur Utama: Menambahkan antarmuka pengguna baru dengan desain yang lebih bersih, dukungan untuk banyak akun email, dan integrasi Google Maps dengan navigasi turn-by-turn.
+
+5. Android 2.2 Froyo (Mei 2010)
+
+    Fitur Utama: Memperkenalkan fitur seperti kemampuan tethering Wi-Fi, peningkatan performa, dan fitur push notification. Juga memperkenalkan fitur apps to SD untuk memindahkan aplikasi ke kartu SD.
+
+6. Android 2.3 Gingerbread (Desember 2010)
+
+    Fitur Utama: Meningkatkan antarmuka pengguna dan performa, menambahkan dukungan untuk kamera depan, dan meningkatkan dukungan untuk permainan dan grafis 3D.
+
+7. Android 3.0 Honeycomb (Februari 2011)
+
+    Fitur Utama: Dirancang khusus untuk tablet, dengan antarmuka pengguna yang diperbarui dan dukungan untuk multitasking yang lebih baik. Memperkenalkan fitur seperti Action Bar dan widgets yang lebih besar.
+
+8. Android 4.0 Ice Cream Sandwich (Oktober 2011)
+
+    Fitur Utama: Menggabungkan elemen dari Honeycomb dan Gingerbread untuk ponsel dan tablet. Memperkenalkan desain Holo UI, fitur face unlock, dan peningkatan performa.
+
+9. Android 4.1-4.3 Jelly Bean (Juli 2012 - Juli 2013)
+
+    Fitur Utama: Meningkatkan performa dan stabilitas dengan Project Butter, menambahkan notifikasi yang dapat ditindaklanjuti, dan memperkenalkan Google Now.
+
+10. Android 4.4 KitKat (Oktober 2013)
+
+    Fitur Utama: Memperkenalkan desain yang lebih bersih dengan immersive modedan meningkatkan performa pada perangkat dengan RAM lebih sedikit. Juga memperkenalkan integrasi dengan Google Fit.
+
+11. Android 5.0-5.1 Lollipop (November 2014 - Maret 2015)
+
+    Fitur Utama: Memperkenalkan Material Design dengan antarmuka pengguna yang baru dan responsif. Fitur lain termasuk notifikasi yang dapat ditindaklanjuti dari layar kunci dan peningkatan manajemen daya.
+
+12. Android 6.0 Marshmallow (Oktober 2015)
+
+    Fitur Utama: Menambahkan fitur seperti Doze untuk penghematan baterai, izin aplikasi yang lebih granular, dan dukungan untuk USB Type-C.
+
+13. Android 7.0-7.1 Nougat (Agustus 2016 - Desember 2016)
+
+    Fitur Utama: Memperkenalkan fitur multitasking dengan split-screen, notifikasi interaktif, dan dukungan untuk Vulkan API untuk performa grafis yang lebih baik.
+
+14. Android 8.0-8.1 Oreo (Agustus 2017 - Desember 2017)
+
+    Fitur Utama: Memperkenalkan fitur seperti Picture-in-Picture, notifikasi yang dapat dikelompokkan, dan pengoptimalan performa.
+
+15. Android 9.0 Pie (Agustus 2018)
+
+    Fitur Utama: Menambahkan sistem navigasi berbasis gerakan, mode gelap, dan fitur Adaptive Battery untuk mengoptimalkan penggunaan daya berdasarkan pola penggunaan.
+
+16. Android 10 (September 2019)
+
+    Fitur Utama: Memperkenalkan sistem navigasi gerakan yang diperbarui, mode gelap sistem-wide, dan kontrol privasi yang lebih baik. Juga memperkenalkan fitur seperti live captions.
+
+17. Android 11 (September 2020)
+
+    Fitur Utama: Menambahkan kontrol media yang ditingkatkan, notifikasi percakapan, dan kontrol privasi yang lebih baik. Memperkenalkan fitur seperti Bubbles untuk aplikasi pesan.
+
+18. Android 12 (Oktober 2021)
+
+    Fitur Utama: Memperkenalkan desain Material You yang memungkinkan personalisasi tema dan warna yang lebih dalam. Juga menambahkan fitur seperti Quick Settings yang lebih dinamis dan peningkatan privasi.
+
+19. Android 13 (Agustus 2022)
+
+    Fitur Utama: Memperkenalkan fitur untuk mendukung perangkat dengan layar besar, seperti tablet dan foldable, serta fitur privasi dan keamanan yang lebih kuat. Juga menambahkan dukungan untuk tema warna yang lebih kaya dan personalisasi lebih lanjut.
+
+20. Android 14 (Agustus 2023)
+
+    Fitur Utama: Meningkatkan performa dan keamanan dengan fitur seperti peningkatan privasi aplikasi dan pengelolaan memori yang lebih baik. Memperkenalkan antarmuka yang lebih responsif untuk perangkat foldable dan layar besar serta optimisasi untuk pengalaman pengguna yang lebih mulus."
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/textView499"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban no 2"
+            android:textStyle="bold"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView654"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android SDK (Software Development Kit) menyediakan berbagai alat dan utilitas untuk membantu dalam pengembangan aplikasi Android. Berikut adalah beberapa tools utama yang disediakan oleh Android SDK:
+1. Android Studio
+
+    Deskripsi: IDE (Integrated Development Environment) resmi untuk pengembangan aplikasi Android. Meskipun bukan bagian dari SDK secara teknis, Android Studio menyediakan lingkungan pengembangan yang terintegrasi dengan SDK Android.
+    Fitur Utama: Editor kode, desain UI, debugging, profiling, dan integrasi dengan sistem build Gradle.
+
+2. Android Emulator
+
+    Deskripsi: Alat untuk menjalankan dan menguji aplikasi Android pada berbagai konfigurasi perangkat virtual tanpa memerlukan perangkat fisik.
+    Fitur Utama: Memungkinkan emulasi berbagai perangkat dan versi Android, mendukung fitur seperti GPS, kamera, dan sensor.
+
+3. Android Debug Bridge (ADB)
+
+    Deskripsi: Alat command-line untuk berkomunikasi dengan perangkat Android atau emulator. ADB memungkinkan Anda menjalankan perintah, mentransfer file, dan menjalankan debugging.
+    Fitur Utama: Memungkinkan eksekusi perintah di perangkat, transfer file, dan debugging.
+
+4. Android Device Monitor
+
+    Deskripsi: Alat grafis untuk memantau dan menganalisis aktivitas perangkat Android. Meskipun tidak lagi aktif dalam versi terbaru SDK, alat ini telah digantikan oleh Android Studio Profiler.
+    Fitur Utama: Memantau logcat, memantau aktivitas aplikasi, dan memeriksa penggunaan memori.
+
+5. Android SDK Platform-Tools
+
+    Deskripsi: Berisi alat yang diperlukan untuk berinteraksi dengan perangkat Android dan emulator.
+    Fitur Utama: Termasuk ADB dan Fastboot, digunakan untuk instalasi aplikasi, debugging, dan manajemen bootloader.
+
+6. Android SDK Build-Tools
+
+    Deskripsi: Alat yang diperlukan untuk membangun aplikasi Android, seperti kompilasi, packaging, dan signing APK.
+    Fitur Utama: Termasuk aapt (Android Asset Packaging Tool), dx (kompiler DEX), dan zipalign (alignment tool).
+
+7. Android SDK Tools
+
+    Deskripsi: Kumpulan alat yang digunakan untuk berbagai tugas pengembangan Android.
+    Fitur Utama: Termasuk alat untuk menciptakan dan mengelola virtual devices, pengelolaan SDK, dan pengelolaan dependensi.
+
+8. Android Profiler
+
+    Deskripsi: Alat untuk menganalisis performa aplikasi, seperti penggunaan CPU, memori, dan jaringan.
+    Fitur Utama: Memantau penggunaan CPU, memori, dan jaringan secara real-time, serta menganalisis masalah performa.
+
+9. Android SDK Manager
+
+    Deskripsi: Alat untuk mengelola dan memperbarui komponen SDK Android. Sekarang fungsionalitas ini terintegrasi dalam Android Studio.
+    Fitur Utama: Memungkinkan Anda untuk mengunduh dan memperbarui SDK, platform, dan alat lainnya.
+
+10. Android Lint
+
+    Deskripsi: Alat untuk menganalisis kode dan menemukan potensi masalah, seperti kesalahan, kerentanan, dan masalah performa.
+    Fitur Utama: Menyediakan laporan tentang masalah kualitas kode, termasuk masalah performa, keamanan, dan kompatibilitas.
+
+11. Android Asset Packaging Tool (AAPT)
+
+    Deskripsi: Alat untuk memproses file sumber daya Android dan menghasilkan APK.
+    Fitur Utama: Memproses dan mengemas sumber daya aplikasi menjadi file APK.
+
+12. Fastboot
+
+    Deskripsi: Alat command-line untuk flashing perangkat Android, yang sering digunakan untuk pemulihan dan pengembangan.
+    Fitur Utama: Memungkinkan Anda untuk flashing gambar sistem dan pemulihan, serta melakukan operasi bootloader.
+
+13. ProGuard/R8
+
+    Deskripsi: Alat untuk optimasi dan obfuscation kode. ProGuard adalah alat lama, sedangkan R8 adalah alat yang lebih baru dan lebih cepat yang menggantikan ProGuard.
+    Fitur Utama: Mengurangi ukuran APK, melindungi kode dengan obfuscation, dan mengoptimalkan performa aplikasi.
+
+14. Android SDK Samples
+
+    Deskripsi: Kumpulan contoh kode yang disediakan oleh Google untuk membantu pengembang memahami cara menggunakan API Android.
+    Fitur Utama: Menyediakan contoh aplikasi dan kode untuk fitur dan API Android yang berbeda.
+
+15. Android NDK (Native Development Kit)
+
+    Deskripsi: Kit pengembangan untuk mengembangkan bagian aplikasi Android menggunakan bahasa pemrograman C dan C++.
+    Fitur Utama: Mendukung pengembangan aplikasi dengan komponen native, termasuk interaksi dengan kode Java dan manajemen memori.
+
+16. Android Jetpack Libraries
+
+    Deskripsi: Kumpulan library yang dirancang untuk menyederhanakan pengembangan aplikasi Android.
+    Fitur Utama: Termasuk library seperti LiveData, ViewModel, Room, dan Navigation, yang membantu dalam arsitektur, UI, dan pengelolaan data aplikasi."
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban no 3"
+            android:textStyle="bold"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView411"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dalam pengembangan aplikasi Android, satuan unit dp (density-independent pixels) dan sp (scale-independent pixels) digunakan untuk mengukur ukuran tampilan, tetapi mereka memiliki tujuan dan penggunaan yang berbeda. Berikut adalah penjelasan perbedaan antara dp dan sp:
+1. dp (Density-Independent Pixels)
+
+    Definisi: dp adalah singkatan dari density-independent pixels, yang dirancang untuk memastikan bahwa antarmuka pengguna (UI) aplikasi terlihat konsisten pada berbagai ukuran dan kepadatan layar. Ini adalah satuan unit yang independen dari kepadatan piksel perangkat.
+
+    Tujuan: dp digunakan untuk mendefinisikan ukuran elemen UI seperti margin, padding, dan ukuran font, serta elemen grafis. Dengan menggunakan dp, ukuran elemen UI tetap konsisten pada berbagai ukuran layar dan kepadatan, mengurangi masalah tampilan yang terlalu besar atau terlalu kecil di perangkat yang berbeda.
+
+    Perhitungan: dp disesuaikan dengan kepadatan layar perangkat. 1 dp setara dengan 1 piksel pada layar 160 dpi (dots per inch), yang dianggap sebagai density bucket dasar. Pada layar dengan kepadatan lebih tinggi atau lebih rendah, dp diubah secara proporsional untuk memastikan ukuran elemen UI konsisten.
+
+2. sp (Scale-Independent Pixels)
+
+    Definisi: sp adalah singkatan dari scale-independent pixels, yang mirip dengan dp tetapi juga memperhitungkan preferensi ukuran teks pengguna. sp dirancang untuk mengukur ukuran teks, sehingga ukuran teks dapat disesuaikan dengan pengaturan ukuran font pengguna.
+
+    Tujuan: sp digunakan khusus untuk ukuran teks dan elemen UI yang membutuhkan skalabilitas ukuran teks. Ini memungkinkan aplikasi untuk menyesuaikan ukuran teks berdasarkan preferensi pengguna, yang mungkin telah mengubah pengaturan ukuran teks sistem di perangkat mereka.
+
+    Perhitungan: Sama seperti dp, sp juga disesuaikan dengan kepadatan layar perangkat. Namun, selain itu, sp juga memperhitungkan pengaturan ukuran teks yang ditentukan oleh pengguna di sistem operasi Android. Hal ini membuat teks lebih responsif terhadap pengaturan aksesibilitas pengguna.
+
+Perbedaan Utama
+
+    Penggunaan Utama:
+        dp: Digunakan untuk mengukur ukuran elemen UI selain teks, seperti margin, padding, dan ukuran gambar.
+        sp: Digunakan khusus untuk ukuran teks agar bisa menyesuaikan dengan pengaturan ukuran teks pengguna.
+
+    Faktor Penyesuaian:
+        dp: Hanya disesuaikan dengan kepadatan layar (dpi) perangkat.
+        sp: Disesuaikan dengan kepadatan layar dan juga memperhitungkan ukuran teks yang disesuaikan oleh pengguna di pengaturan sistem."
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView477"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban no 4"
+            android:textStyle="bold"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView455"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dalam pengembangan aplikasi Android, Activity dan Intent adalah dua konsep fundamental yang sering digunakan untuk membangun aplikasi. Berikut penjelasan tentang masing-masing:
+1. Activity
+Definisi
+
+    Activity adalah komponen dasar dalam aplikasi Android yang menyediakan antarmuka pengguna (UI) untuk berinteraksi dengan pengguna. Setiap aktivitas mewakili satu layar dalam aplikasi.
+
+Tujuan
+
+    UI dan Interaksi: Activity mengelola antarmuka pengguna dan berfungsi sebagai tempat di mana pengguna berinteraksi dengan aplikasi. Misalnya, sebuah aktivitas bisa menampilkan daftar item, formulir, atau tampilan detail.
+
+Lifecycle
+
+    Lifecycle: Activity memiliki siklus hidup yang melibatkan berbagai state seperti onCreate(), onStart(), onResume(), onPause(), onStop(), dan onDestroy(). Setiap metode ini dipanggil pada titik tertentu dalam siklus hidup aktivitas dan memungkinkan Anda untuk mengelola apa yang terjadi di setiap fase."
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jawaban no 5"
+            android:textStyle="bold"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Merancang desain aplikasi mobile memerlukan perhatian terhadap berbagai aspek untuk memastikan aplikasi tidak hanya menarik secara visual tetapi juga fungsional, mudah digunakan, dan sesuai dengan kebutuhan pengguna. Berikut adalah beberapa hal yang perlu diperhatikan oleh seorang desainer saat merancang desain aplikasi mobile:
+1. Pengalaman Pengguna (User Experience - UX)
+
+    Kemudahan Navigasi: Pastikan pengguna dapat menavigasi aplikasi dengan mudah. Gunakan struktur navigasi yang intuitif dan konsisten.
+    Fungsi yang Jelas: Setiap elemen UI harus memiliki fungsi yang jelas dan mudah dipahami. Gunakan label dan ikon yang representatif.
+    Alur Pengguna: Rancang alur pengguna yang logis dari satu aktivitas ke aktivitas lainnya, meminimalisir langkah yang tidak perlu.
+
+2. Antarmuka Pengguna (User Interface - UI)
+
+    Desain Responsif: Pastikan desain berfungsi dengan baik pada berbagai ukuran layar dan resolusi. Gunakan unit yang sesuai seperti dp dan sp untuk memastikan konsistensi.
+    Keterbacaan: Pilih ukuran font yang mudah dibaca dan kontras yang cukup antara teks dan latar belakang. Pertimbangkan untuk menguji keterbacaan di berbagai kondisi pencahayaan.
+    Warna dan Tema: Pilih palet warna yang sesuai dengan identitas merek dan pastikan warna kontras cukup untuk visibilitas yang baik. Pertimbangkan juga mode gelap dan terang.
+
+3. Aksesibilitas
+
+    Tekstual Alternatif: Sertakan teks alternatif untuk gambar dan elemen visual sehingga pengguna dengan gangguan penglihatan dapat memahami konten.
+    Kontras Warna: Pastikan ada kontras warna yang memadai untuk teks dan elemen penting agar mudah dibaca oleh semua pengguna, termasuk mereka yang memiliki gangguan penglihatan warna.
+    Navigasi dengan Keyboard dan Pembaca Layar: Pastikan aplikasi dapat diakses dengan keyboard dan pembaca layar untuk pengguna dengan keterbatasan fisik.
+
+4. Interaksi dan Responsivitas
+
+    Responsif terhadap Sentuhan: Rancang elemen interaktif dengan ukuran yang memadai untuk memudahkan interaksi sentuhan. Pastikan area sentuhan cukup besar dan memberikan umpan balik visual saat ditekan.
+    Waktu Respons: Pastikan aplikasi memberikan umpan balik yang cepat terhadap interaksi pengguna, seperti klik atau gesekan.
+
+5. Performansi
+
+    Efisiensi: Desain aplikasi agar efisien dalam penggunaan sumber daya seperti memori dan CPU. Hindari elemen yang memperlambat kinerja aplikasi.
+    Optimasi Gambar: Gunakan gambar yang dioptimalkan untuk memastikan waktu muat cepat tanpa mengorbankan kualitas.
+
+6. Konsistensi
+
+    Gaya Desain: Gunakan gaya desain yang konsisten di seluruh aplikasi, termasuk font, warna, ikon, dan elemen UI. Ini membantu menciptakan pengalaman pengguna yang kohesif.
+    Ikon dan Simbol: Pilih ikon dan simbol yang sudah dikenal luas dan mudah dipahami, serta konsisten dalam penggunaannya.
+
+7. Kebiasaan Pengguna dan Tren
+
+    Riset Pengguna: Kenali kebutuhan dan kebiasaan pengguna target Anda. Lakukan riset pengguna dan uji coba untuk memahami preferensi dan kebiasaan mereka.
+    Tren Desain Terbaru: Tetap up-to-date dengan tren desain terbaru untuk memastikan aplikasi Anda tidak ketinggalan zaman dan tetap relevan.
+
+8. Keamanan dan Privasi
+
+    Pengelolaan Data: Desain aplikasi dengan pertimbangan keamanan data pribadi dan privasi pengguna. Gunakan metode yang aman untuk mengelola dan menyimpan data.
+    Hak Akses: Minta izin dengan jelas untuk akses ke fitur atau data perangkat seperti kamera, lokasi, atau kontak.
+
+9. Integrasi dan Kompatibilitas
+
+    Integrasi dengan Layanan Lain: Rancang aplikasi agar dapat terintegrasi dengan layanan atau aplikasi lain yang relevan (misalnya, berbagi ke media sosial atau sinkronisasi dengan layanan cloud).
+    Kompatibilitas Perangkat: Pastikan aplikasi bekerja dengan baik di berbagai perangkat dan versi sistem operasi Android atau iOS.
+
+10. Uji Coba dan Iterasi
+
+    Uji Kegunaan: Lakukan uji kegunaan secara berkala dengan pengguna nyata untuk mengidentifikasi masalah atau area yang bisa ditingkatkan.
+    Iterasi: Bersiaplah untuk melakukan iterasi desain berdasarkan umpan balik pengguna dan hasil uji coba."
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</ScrollView>
